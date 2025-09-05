@@ -1,0 +1,9 @@
+[project]
+name = "movielens-venv"
+version = "0.1.0"
+description = "Proyecto con Jupyter"
+authors = [{ name = "Jose Almendarez" }]
+dependencies = [
+    "jupyter>=1.1.1",
+]
+
